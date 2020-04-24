@@ -42,3 +42,14 @@ Using the data from Indeed Jobs to analyse Data Scientist, Data Analyst and Data
 - Health Care
 - Insurance
 - Other_industries
+
+#### Visualizations
+
+Programming languages:
+![programming_language](https://user-images.githubusercontent.com/18138100/80250365-96eda200-866b-11ea-874d-e3b277d830ac.PNG)
+
+
+
+BI Tools:
+![BI_Tools](https://user-images.githubusercontent.com/18138100/80250394-ab319f00-866b-11ea-8996-d67433457fff.PNG)
+
