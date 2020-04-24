@@ -53,3 +53,15 @@ Using the data from Indeed Jobs to analyse Data Scientist, Data Analyst and Data
 
 
 ![BI_Tools](https://user-images.githubusercontent.com/18138100/80250394-ab319f00-866b-11ea-8996-d67433457fff.PNG)
+
+
+
+Follow me on [Twitter](https://twitter.com/marizu_makozi)
+
+**Marizu-Ibewiro Makozi**
+  
+
+
+ ## License
+
+This project is licensed under the  [MIT License](https://github.com/makozi/Indeed-Dataset/blob/master/LICENSE)
