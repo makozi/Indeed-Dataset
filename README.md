@@ -2,6 +2,10 @@
 
 Using the data from Indeed Jobs to analyse Data Scientist, Data Analyst and Data Engineer.
 
+## Data
+
+This is the link to the [data](https://github.com/makozi/Indeed-Dataset/blob/master/indeed_job_dataset.csv)
+
 **Analysing the Dataset**
 
  - `Job_Title`:		 Title of Role
